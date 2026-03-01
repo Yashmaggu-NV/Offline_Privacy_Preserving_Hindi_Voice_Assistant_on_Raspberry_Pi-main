@@ -1,4 +1,16 @@
 # Offline, Privacy-Preserving Hindi Voice Assistant on Raspberry Pi
+# 🎙 Offline Privacy-Preserving Hindi Voice Assistant
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+
+
+
+
+
 
 An offline Hindi Voice Assistant built using Raspberry Pi, Vosk ASR, and Piper TTS.
 
